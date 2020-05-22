@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+#text {
+    color: #3490dc !important;
+
+}
+
 #foto {
     width: 345;
     height: 500px;
